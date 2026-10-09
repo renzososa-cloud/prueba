@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiApplication<tp-jpa-springboot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ar.edu.utn.ApiApplication",
+            "projectName": "tp-jpa-springboot",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
